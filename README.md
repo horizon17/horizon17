@@ -4,9 +4,10 @@ Hi 👋 My name is Anatolii Belov
 Senior Software Developer
 -------------------------
 
-* IT specialist with over 20 years of experience 
-* +7 years of experience as a Java Software Developer: Java Enterprise Edition (J2EE), Microservices architecture, Android software development, Cloud development. 
-* Background in multiple programming languages, including PHP, Python, JavaScript, React.
+\* IT specialist with over 20 years of experience.<br>
+\* +7 years of experience as a Java Software Developer: Java Enterprise Edition (J2EE), Microservices architecture, Android software development, Cloud development.<br>
+\* Background in multiple programming languages, including PHP, Python, JavaScript, React.<br>
+
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [cio@aivalleyprojects.com](mailto:cio@aivalleyprojects.com)
