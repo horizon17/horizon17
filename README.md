@@ -4,7 +4,7 @@ Hi 👋 My name is Anatolii Belov
 Senior Software Developer
 -------------------------
 
-\* IT specialist with over 20 years of experience.
+\* IT specialist with over 20 years of experience.<br>
 \* +7 years of experience as a Java Software Developer: Java Enterprise Edition (J2EE), Microservices architecture, Android software development, Cloud development.<br>
 \* Background in multiple programming languages, including PHP, Python, JavaScript, React.<br>
 
