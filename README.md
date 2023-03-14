@@ -10,7 +10,7 @@ Senior Software Developer
 
 
 * 🌍  I'm based in California
-* ✉️  You can contact me at [cio@aivalleyprojects.com](mailto:anatoliibelov81@gmail.com)
+* ✉️  You can contact me at [anatoliibelov81@gmail.com](mailto:anatoliibelov81@gmail.com)
 * 🚀  I'm currently working on [AI VALLEY PROJECTS](http://www.aivalleyprojects.com/)
 * 🧠  I'm learning Spring Boot 3, FireBase, Google Cloud, GO
 * 🤝  I'm open to collaborating on Drones, AI/CV, IoT, Object tracking and more
